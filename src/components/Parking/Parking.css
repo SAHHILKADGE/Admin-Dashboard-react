@@ -1,0 +1,12 @@
+.Parking{
+    width: 85%;
+    height: 60%;
+    background: white;
+    border-radius: 0.7rem;
+    padding: 1rem;
+    gap: 1rem;
+    padding-top: 0%;
+    font-size: 13px;
+    overflow-y: scroll;
+    
+}
